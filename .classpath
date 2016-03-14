@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="src/hibernate-core-5.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="src/slf4j-api-1.7.18.jar"/>
+	<classpathentry kind="lib" path="src/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="src/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="src/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="src/hibernate-commons-annotations-5.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="src/postgresql-9.3-1100-jdbc41.jar"/>
+	<classpathentry kind="lib" path="src/classmate-1.0.0.jar"/>
+	<classpathentry kind="lib" path="src/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="src/javassist-3.12.1.GA.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
