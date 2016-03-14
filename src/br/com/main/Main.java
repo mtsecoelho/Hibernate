@@ -31,6 +31,8 @@ public class Main {
 			 session.delete(model);
 			 transaction.commit();
 			 
+			 System.out.println("Teste");
+			 
 		 } catch(Exception e) {
 			 e.printStackTrace();
 		 } 
